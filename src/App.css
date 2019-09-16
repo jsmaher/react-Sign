@@ -1,0 +1,16 @@
+#inputs{
+  width: 50% !important;
+  /* color: blue; */
+}
+.loginform{
+  text-align: center;
+}
+/* .nvbar{
+  text-align: center;
+
+} */  
+
+p{
+  color: blue;
+  cursor: pointer;
+}
